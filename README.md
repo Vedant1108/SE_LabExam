@@ -3,7 +3,7 @@
 
 ## How to Run
 
-### 1. Put all `.java` files in one folder
+### 1. Put all `.java and .class` files in one folder
 
 ### 2. Compile
 ```bash
